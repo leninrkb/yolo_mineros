@@ -1,0 +1,9 @@
+conda create -n [nombre del entorno] python=3.6
+
+conda activate [nombre del entorno]
+
+conda env list
+
+conda env remove --name [nombre del entorno]
+
+
